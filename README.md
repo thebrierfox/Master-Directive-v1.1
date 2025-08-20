@@ -567,5 +567,9 @@ Adaptability: Thanks to recursive feedback loops and dynamic tool creation, the 
 
 In essence, Master Directive v1.1 becomes a self-realizing directive: when an AI interprets this pipeline, it will not only construct the system dictated by the directive but also evolve that system, and even the directive itself, over time. The above spec serves as both an instruction manual and a development blueprint, enabling the AI to bootstrap complex solutions autonomously. Each improvement cycle reinforces the directive’s infrastructure, moving it closer to an ideal state. With observability at every step and fallbacks in place, the process remains transparent and resilient.
 
-The autonomous AI can now take this roadmap and execute it step-by-step, transforming the Master Directive from a static document into a living, self-improving system.
+The autonomous AI can now take this roadmap and execute it step-by-step, transforming the Master Directive from a static document into a living, self-impr
+oving system.
 
+## License and ownership
+
+All code and documentation in this repository are the intellectual property of **IntuiTek¹** (William Kyle Million). Unauthorized copying, modification, distribution or use is prohibited without prior written consent. See the `LICENSE` file for details. For licensing inquiries, contact kyle@intuitek.ai.
